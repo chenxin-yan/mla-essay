@@ -5,10 +5,10 @@ nocite: |
   @*
 ---
 
-###### Chenxin Yan
+###### <name>
 
-###### course
+###### <course>
 
-###### instructor
+###### <instructor>
 
-###### date
+###### <date>

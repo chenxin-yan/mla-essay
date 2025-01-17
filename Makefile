@@ -1,6 +1,7 @@
 final: build
 
 build: ./essay.md
+	rm -rf out.md dist
 	touch output.md
 	cat ./src/header.md >> output.md
 	cat ./essay.md >> output.md
